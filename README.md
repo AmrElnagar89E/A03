@@ -4,7 +4,7 @@ PART 1: Directions on Using Webstorm.
 First you need to download webstorm and license it using your educational account.
 You need to link webstorm to your gitHub account by choosing Get from VCS.
 You choose which **Repository** you want to use then you clone it.
-After that you can edit your code on webstorm and make the changes to the gitHub by using **Push**.
+After that you can edit your code on webstorm and make the changes to the gitHub by using **Commit** and **Push**.
 
 
 [Link to download Webstorm](https://www.jetbrains.com/community/education/#students)
